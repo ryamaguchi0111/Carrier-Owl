@@ -1,11 +1,3 @@
-# # arxivの学問領域の指定
-# subject: 'cs'
-
-# # 検索キーワード
-# keywords:
-#         kaggle: 3
-#         resnet: 3
-#         anomaly detection: 1
 # arxivの学問領域の指定
 subject: 'cs'
 
