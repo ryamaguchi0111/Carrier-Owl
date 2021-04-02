@@ -19,5 +19,6 @@ keywords:
         spectrogram: 3
         outlier detection: 1
         koizumi: 3
+        reduction: 3
 # 通知の閾値
 score_threshold: 0
